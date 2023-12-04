@@ -1668,14 +1668,16 @@ ol {
     color: #ffffff;
 }
 
-.schedule-table-tab .schedule-table-content table tbody tr td.hover-bg:hover p {
+/* .schedule-table-tab .schedule-table-content table tbody tr td.hover-bg:hover p {
     color: #ffffff;
 }
 
 .schedule-table-tab .schedule-table-content table tbody tr td.hover-bg:hover p span {
     color: #ffffff;
+} */
+.hover-bg p span{
+    color:#ffffff;
 }
-
 
 /*---------------------
   Blog
