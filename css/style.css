@@ -1663,7 +1663,9 @@ ol {
     background: -o-linear-gradient(330deg, #c100c1,#0000ff, #16c5ff);
     background: linear-gradient(120deg,#c100c1,#0000ff, #16c5ff);
 }
-
+.hover-bg p span{
+    color: #ffffff;
+}
 .schedule-table-tab .schedule-table-content table tbody tr td.hover-bg:hover h5 {
     color: #ffffff;
 }
@@ -1675,9 +1677,7 @@ ol {
 .schedule-table-tab .schedule-table-content table tbody tr td.hover-bg:hover p span {
     color: #ffffff;
 }
-.hover-bg p span{
-    color: #ffffff;
-}
+
 
 /*---------------------
   Blog
